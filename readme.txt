@@ -5,4 +5,4 @@ Git is free,i like it
 I promise I will go home
 README.md
 I am trying
-Creating a new branch is so quickly dev's simple
+Creating a new branch is so quickly master simple
