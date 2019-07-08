@@ -6,3 +6,6 @@ I promise I will go home
 README.md
 I am trying
 Creating a new branch is so quickly myDev
+rebase 1
+rebase 2
+rebase 3
