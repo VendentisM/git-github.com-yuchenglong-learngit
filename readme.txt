@@ -6,6 +6,7 @@ I promise I will go home
 README.md
 I am trying
 Creating a new branch is so quickly myMaster
+I am master
 rebase 1
 rebase 2
 rebase 3
